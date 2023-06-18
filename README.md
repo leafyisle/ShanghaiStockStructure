@@ -1,4 +1,4 @@
-# StockStructure
+# ShanghaiStockStructure 
 
 ### System
 * Linux. Verified on CentOS8, Debian Bullseye
