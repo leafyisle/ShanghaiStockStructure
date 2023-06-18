@@ -1,7 +1,7 @@
 # StockStructure
 
 ### System
-* Linux, with verified on CentOS8, Debian Bullseye
+* Linux. Verified on CentOS8, Debian Bullseye
 
 ### Features
 * **Data Collection**, Collect the Semi-realtime stock trading data from hq.sinajs.cn and store the data in a MariaDB database
