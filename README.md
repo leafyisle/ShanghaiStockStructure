@@ -11,4 +11,4 @@
 
 ### Remark
 * As a result of collecting the data in a semi-realtime manner, the data presented is also "closed" to "semi-realtime".
-* With slight adjustment of the code, a distributed collection could be made to get more accuracy of the trading data.
+* With slight adjustment of the code, a distributed collection could be made to get more accuracy of the trading data and avoid blockage from API provider.
